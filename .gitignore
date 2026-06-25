@@ -1,0 +1,17 @@
+# Entornos virtuales (no se suben)
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos temporales de Python y caché
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Archivos temporales de Windows
+.DS_Store
+Thumbs.db
+
+*.zip
+datasets.zip

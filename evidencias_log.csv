@@ -1,0 +1,92 @@
+timestamp,ppe_mode,total_personas,personas_ok,personas_con_falta,faltas_agrupadas,ruta_cap
+2025-11-17 04:13:16,Casco+Chaleco,1,0,1,helmet1_vest1,evidencias\2025-11-17\20251117_041316_faltas_helmet1_vest1.jpg
+2025-11-17 04:14:13,Solo Casco,2,0,2,helmet2,evidencias\2025-11-17\20251117_041413_faltas_helmet2.jpg
+2025-11-17 04:15:44,Casco+Chaleco+Goggles,1,0,1,vest1_goggles1,evidencias\2025-11-17\20251117_041544_faltas_vest1_goggles1.jpg
+2025-11-17 04:15:51,Casco+Chaleco+Goggles,1,0,1,helmet1_vest1_goggles1,evidencias\2025-11-17\20251117_041551_faltas_helmet1_vest1_goggles1.jpg
+2025-11-17 04:15:56,Casco+Chaleco+Goggles,2,0,2,vest2_goggles2_helmet1,evidencias\2025-11-17\20251117_041556_faltas_vest2_goggles2_helmet1.jpg
+2025-11-17 04:16:01,Casco+Chaleco+Goggles,1,0,1,vest1_goggles1,evidencias\2025-11-17\20251117_041601_faltas_vest1_goggles1.jpg
+2025-11-17 04:16:06,Casco+Chaleco+Goggles,1,0,1,helmet1_vest1_goggles1,evidencias\2025-11-17\20251117_041606_faltas_helmet1_vest1_goggles1.jpg
+2025-11-17 04:16:11,Casco+Chaleco+Goggles,1,0,1,vest1_goggles1,evidencias\2025-11-17\20251117_041611_faltas_vest1_goggles1.jpg
+2025-11-24 19:26:46,Solo Casco,2,1,1,helmet1,evidencias\2025-11-24\20251124_192646_faltas_helmet1.jpg
+2025-11-24 19:27:31,Solo Casco,1,0,1,helmet1,evidencias\2025-11-24\20251124_192731_faltas_helmet1.jpg
+2025-11-24 19:27:36,Solo Casco,1,0,1,helmet1,evidencias\2025-11-24\20251124_192736_faltas_helmet1.jpg
+2025-11-24 19:27:41,Solo Casco,1,0,1,helmet1,evidencias\2025-11-24\20251124_192741_faltas_helmet1.jpg
+2025-11-24 19:27:47,Solo Casco,2,1,1,helmet1,evidencias\2025-11-24\20251124_192747_faltas_helmet1.jpg
+2025-11-24 19:28:09,Solo Casco,1,0,1,helmet1,evidencias\2025-11-24\20251124_192809_faltas_helmet1.jpg
+2025-11-26 12:53:35,Solo Casco,2,1,1,helmet1,evidencias\2025-11-26\20251126_125335_faltas_helmet1.jpg
+2025-11-26 12:53:40,Solo Casco,2,0,2,helmet2,evidencias\2025-11-26\20251126_125340_faltas_helmet2.jpg
+2025-11-26 12:53:45,Solo Casco,3,0,3,helmet3,evidencias\2025-11-26\20251126_125345_faltas_helmet3.jpg
+2025-11-26 12:53:50,Solo Casco,2,0,2,helmet2,evidencias\2025-11-26\20251126_125350_faltas_helmet2.jpg
+2025-11-26 12:53:55,Solo Casco,2,1,1,helmet1,evidencias\2025-11-26\20251126_125355_faltas_helmet1.jpg
+2025-11-27 10:38:39,Casco+Chaleco,2,1,1,helmet1_vest1,evidencias\2025-11-27\20251127_103839_faltas_helmet1_vest1.jpg
+2025-11-27 10:38:44,Casco+Chaleco,2,1,1,helmet1,evidencias\2025-11-27\20251127_103844_faltas_helmet1.jpg
+2025-11-27 10:38:49,Casco+Chaleco,2,0,2,helmet2_vest1,evidencias\2025-11-27\20251127_103849_faltas_helmet2_vest1.jpg
+2025-11-27 10:38:54,Casco+Chaleco,2,0,2,helmet2,evidencias\2025-11-27\20251127_103854_faltas_helmet2.jpg
+2025-11-27 10:38:59,Casco+Chaleco,2,0,2,helmet2_vest1,evidencias\2025-11-27\20251127_103859_faltas_helmet2_vest1.jpg
+2025-11-27 10:39:04,Casco+Chaleco,2,1,1,helmet1_vest1,evidencias\2025-11-27\20251127_103904_faltas_helmet1_vest1.jpg
+2025-12-02 09:09:03,Solo Casco,1,0,1,helmet1,evidencias\2025-12-02\20251202_090903_faltas_helmet1.jpg
+2025-12-02 09:09:24,Solo Casco,1,0,1,helmet1,evidencias\2025-12-02\20251202_090924_faltas_helmet1.jpg
+2025-12-02 09:09:39,Solo Casco,1,0,1,helmet1,evidencias\2025-12-02\20251202_090939_faltas_helmet1.jpg
+2025-12-02 09:09:55,Solo Casco,1,0,1,helmet1,evidencias\2025-12-02\20251202_090955_faltas_helmet1.jpg
+2025-12-02 09:10:18,Solo Casco,1,0,1,helmet1,evidencias\2025-12-02\20251202_091018_faltas_helmet1.jpg
+2025-12-02 09:10:33,Solo Casco,1,0,1,helmet1,evidencias\2025-12-02\20251202_091033_faltas_helmet1.jpg
+2025-12-11 14:51:44,Casco+Chaleco+Goggles,2,0,2,helmet2_goggles2_vest1,evidencias\2025-12-11\20251211_145144_faltas_helmet2_goggles2_vest1.jpg
+2025-12-11 14:57:21,Casco+Chaleco+Goggles,1,0,1,vest1_goggles1,evidencias\2025-12-11\20251211_145721_faltas_vest1_goggles1.jpg
+2025-12-11 15:04:19,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_150419_faltas_goggles1.jpg
+2025-12-11 15:04:34,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_150434_faltas_goggles1.jpg
+2025-12-11 15:04:49,Casco+Chaleco+Goggles,1,0,1,vest1_goggles1,evidencias\2025-12-11\20251211_150449_faltas_vest1_goggles1.jpg
+2025-12-11 15:05:04,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_150504_faltas_goggles1.jpg
+2025-12-11 15:05:19,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_150519_faltas_goggles1.jpg
+2025-12-11 15:05:34,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_150534_faltas_goggles1.jpg
+2025-12-11 15:05:49,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_150549_faltas_goggles1.jpg
+2025-12-11 15:06:04,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_150604_faltas_goggles1.jpg
+2025-12-11 15:06:19,Casco+Chaleco+Goggles,2,0,2,goggles2_helmet1,evidencias\2025-12-11\20251211_150619_faltas_goggles2_helmet1.jpg
+2025-12-11 15:06:34,Casco+Chaleco+Goggles,2,1,1,goggles1,evidencias\2025-12-11\20251211_150634_faltas_goggles1.jpg
+2025-12-11 15:06:49,Casco+Chaleco+Goggles,2,0,2,goggles2,evidencias\2025-12-11\20251211_150649_faltas_goggles2.jpg
+2025-12-11 15:07:04,Casco+Chaleco+Goggles,2,1,1,goggles1,evidencias\2025-12-11\20251211_150704_faltas_goggles1.jpg
+2025-12-11 15:07:19,Casco+Chaleco+Goggles,1,0,1,vest1,evidencias\2025-12-11\20251211_150719_faltas_vest1.jpg
+2025-12-11 15:09:21,Casco+Chaleco,1,0,1,helmet1_vest1,evidencias\2025-12-11\20251211_150921_faltas_helmet1_vest1.jpg
+2025-12-11 15:09:38,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_150938_faltas_vest1.jpg
+2025-12-11 15:09:43,Casco+Chaleco,2,1,1,helmet1,evidencias\2025-12-11\20251211_150943_faltas_helmet1.jpg
+2025-12-11 15:09:48,Casco+Chaleco,2,1,1,helmet1,evidencias\2025-12-11\20251211_150948_faltas_helmet1.jpg
+2025-12-11 15:09:53,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_150953_faltas_vest1.jpg
+2025-12-11 15:09:58,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_150958_faltas_vest1.jpg
+2025-12-11 15:10:08,Casco+Chaleco,2,0,2,vest1_helmet1,evidencias\2025-12-11\20251211_151008_faltas_vest1_helmet1.jpg
+2025-12-11 15:10:18,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151018_faltas_vest1.jpg
+2025-12-11 15:10:23,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151023_faltas_vest1.jpg
+2025-12-11 15:10:28,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151028_faltas_vest1.jpg
+2025-12-11 15:10:33,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151033_faltas_vest1.jpg
+2025-12-11 15:10:38,Casco+Chaleco,2,0,2,vest2,evidencias\2025-12-11\20251211_151038_faltas_vest2.jpg
+2025-12-11 15:10:43,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151043_faltas_vest1.jpg
+2025-12-11 15:10:48,Casco+Chaleco,2,0,2,vest2,evidencias\2025-12-11\20251211_151048_faltas_vest2.jpg
+2025-12-11 15:10:53,Casco+Chaleco,3,2,1,helmet1_vest1,evidencias\2025-12-11\20251211_151053_faltas_helmet1_vest1.jpg
+2025-12-11 15:10:59,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151059_faltas_vest1.jpg
+2025-12-11 15:11:04,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151104_faltas_vest1.jpg
+2025-12-11 15:11:16,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151116_faltas_vest1.jpg
+2025-12-11 15:11:22,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151122_faltas_vest1.jpg
+2025-12-11 15:11:37,Casco+Chaleco,2,1,1,helmet1,evidencias\2025-12-11\20251211_151137_faltas_helmet1.jpg
+2025-12-11 15:11:42,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151142_faltas_vest1.jpg
+2025-12-11 15:11:51,Casco+Chaleco,3,2,1,helmet1_vest1,evidencias\2025-12-11\20251211_151151_faltas_helmet1_vest1.jpg
+2025-12-11 15:11:58,Casco+Chaleco,3,2,1,helmet1_vest1,evidencias\2025-12-11\20251211_151158_faltas_helmet1_vest1.jpg
+2025-12-11 15:12:07,Casco+Chaleco,2,1,1,helmet1,evidencias\2025-12-11\20251211_151207_faltas_helmet1.jpg
+2025-12-11 15:12:12,Casco+Chaleco,2,1,1,helmet1,evidencias\2025-12-11\20251211_151212_faltas_helmet1.jpg
+2025-12-11 15:12:29,Casco+Chaleco,3,2,1,helmet1_vest1,evidencias\2025-12-11\20251211_151229_faltas_helmet1_vest1.jpg
+2025-12-11 15:12:36,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151236_faltas_vest1.jpg
+2025-12-11 15:12:41,Casco+Chaleco,3,2,1,helmet1_vest1,evidencias\2025-12-11\20251211_151241_faltas_helmet1_vest1.jpg
+2025-12-11 15:12:46,Casco+Chaleco,2,1,1,helmet1_vest1,evidencias\2025-12-11\20251211_151246_faltas_helmet1_vest1.jpg
+2025-12-11 15:12:51,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151251_faltas_vest1.jpg
+2025-12-11 15:12:56,Casco+Chaleco,2,1,1,vest1,evidencias\2025-12-11\20251211_151256_faltas_vest1.jpg
+2025-12-11 15:16:06,Casco+Chaleco+Goggles,1,0,1,helmet1_vest1_goggles1,evidencias\2025-12-11\20251211_151606_faltas_helmet1_vest1_goggles1.jpg
+2025-12-11 15:16:21,Casco+Chaleco+Goggles,1,0,1,vest1_goggles1,evidencias\2025-12-11\20251211_151621_faltas_vest1_goggles1.jpg
+2025-12-11 15:16:36,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_151636_faltas_goggles1.jpg
+2025-12-11 15:16:51,Casco+Chaleco+Goggles,1,0,1,vest1_goggles1,evidencias\2025-12-11\20251211_151651_faltas_vest1_goggles1.jpg
+2025-12-11 15:17:07,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_151707_faltas_goggles1.jpg
+2025-12-11 15:17:40,Casco+Chaleco+Goggles,1,0,1,helmet1_goggles1,evidencias\2025-12-11\20251211_151740_faltas_helmet1_goggles1.jpg
+2025-12-11 15:17:55,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_151755_faltas_goggles1.jpg
+2025-12-11 15:18:10,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_151810_faltas_goggles1.jpg
+2025-12-11 15:18:26,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_151826_faltas_goggles1.jpg
+2025-12-11 15:18:41,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_151841_faltas_goggles1.jpg
+2025-12-11 15:18:56,Casco+Chaleco+Goggles,1,0,1,helmet1_goggles1,evidencias\2025-12-11\20251211_151856_faltas_helmet1_goggles1.jpg
+2025-12-11 15:19:11,Casco+Chaleco+Goggles,1,0,1,goggles1,evidencias\2025-12-11\20251211_151911_faltas_goggles1.jpg
+2025-12-15 10:49:45,Casco+Chaleco+Goggles,1,0,1,helmet1_vest1_goggles1,evidencias\2025-12-15\20251215_104945_faltas_helmet1_vest1_goggles1.jpg
+2025-12-15 10:50:11,Casco+Chaleco+Goggles,1,0,1,helmet1_vest1_goggles1,evidencias\2025-12-15\20251215_105011_faltas_helmet1_vest1_goggles1.jpg
