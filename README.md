@@ -22,6 +22,6 @@ Contenido:
 
 GitHub: https://github.com/DCD55/sistema-deteccion-ppe
 
-Google Drive: (Tu carpeta personal de respaldo)
+Google Drive: https://drive.google.com/drive/folders/1inbOkgP2bKxKCOdcVY17fXrVXQtNH95j?usp=drive_link
 
 Base de Datos Oficial (EPP): https://github.com/ultralytics/assets/releases/download/v0.0.0/construction-ppe.zip
