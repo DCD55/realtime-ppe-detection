@@ -1,24 +1,26 @@
-Sistema de Detección de Equipo de Protección Personal (EPP)
-Descripción:
-Este proyecto consiste en un sistema de monitoreo visual automatizado que utiliza algoritmos de visión artificial para la detección en tiempo real de Equipo de Protección Personal (EPP) en entornos industriales y de construcción. El objetivo principal es mejorar los estándares de seguridad industrial mediante la identificación automática del uso correcto de cascos, chalecos y otros elementos de protección esenciales.
+# Personal Protective Equipment (PPE) Detection System
 
-🚀 Tecnologías Utilizadas
-Lenguaje: Python
+## Overview
+This project is an automated visual monitoring system that leverages computer vision algorithms for real-time Personal Protective Equipment (PPE) detection in industrial and construction environments. The main objective is to improve occupational safety standards through the automatic identification and compliance tracking of essential safety gear, such as helmets and safety vests.
 
-Algoritmo de Visión Artificial: YOLO (You Only Look Once)
+## 🚀 Technologies Used
+* **Language:** Python
+* **Computer Vision Model:** YOLO (You Only Look Once)
+* **Frameworks & Libraries:** OpenCV, PyTorch
+* **Hardware Acceleration:** CUDA (GPU support)
 
-Frameworks y Herramientas: OpenCV, PyTorch, CUDA (para aceleración por GPU)
+## 📂 Repository Structure
+* `train.py`: Script for training and fine-tuning the detection model.
+* `predict.py`: Main script for running real-time detection on video streams or images.
+* `analizar_evidencias.py`: Processing script designed for logging safety compliance and generating security alerts.
+* `data.yaml`: Dataset configuration file defining paths and class labels.
+* `requirements.txt`: Environment dependencies required to run the project.
 
-📂 Estructura del Repositorio
-train.py y predict.py: Scripts principales para el entrenamiento del modelo y la ejecución de predicciones en tiempo real.
+## 🔗 Resources & External Links
+* **GitHub Repository:** [DCD55/sistema-deteccion-ppe](https://github.com/DCD55/sistema-deteccion-ppe)
+* **Project Files (Google Drive):** [Google Drive Folder](https://drive.google.com/drive/folders/1inbOkgP2bKxKCOdcVY17fXrVXQtNH95j?usp=drive_link)
+* **Official Dataset (PPE):** [Construction PPE Dataset (ZIP)](https://github.com/ultralytics/assets/releases/download/v0.0.0/construction-ppe.zip)
 
-analizar_evidencias.py: Script diseñado para el procesamiento y registro de alertas y cumplimiento de seguridad.
-
-data.yaml: Archivo de configuración con las rutas y clases del dataset de entrenamiento.
-
-requirements.txt: Archivo con todas las librerías y dependencias necesarias para replicar el entorno de ejecución.
-
-Contenido:
 
 GitHub: https://github.com/DCD55/sistema-deteccion-ppe
 
