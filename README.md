@@ -40,14 +40,4 @@ It detects workers and safety gear (helmets, vests, goggles), evaluates individu
 * **GitHub Repository:** [DCD55/sistema-deteccion-ppe](https://github.com/DCD55/sistema-deteccion-ppe)
 * **Dataset:** [Construction PPE Dataset](https://github.com/ultralytics/assets/releases/download/v0.0.0/construction-ppe.zip)
 
-## 🔗 Resources & External Links
-* **GitHub Repository:** [DCD55/sistema-deteccion-ppe](https://github.com/DCD55/sistema-deteccion-ppe)
-* **Project Files (Google Drive):** [Google Drive Folder](https://drive.google.com/drive/folders/1inbOkgP2bKxKCOdcVY17fXrVXQtNH95j?usp=drive_link)
-* **Official Dataset (PPE):** [Construction PPE Dataset (ZIP)](https://github.com/ultralytics/assets/releases/download/v0.0.0/construction-ppe.zip)
 
-
-GitHub: https://github.com/DCD55/sistema-deteccion-ppe
-
-Google Drive: https://drive.google.com/drive/folders/1inbOkgP2bKxKCOdcVY17fXrVXQtNH95j?usp=drive_link
-
-Base de Datos Oficial (EPP): https://github.com/ultralytics/assets/releases/download/v0.0.0/construction-ppe.zip
